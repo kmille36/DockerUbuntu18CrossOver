@@ -1,4 +1,4 @@
-# DockerUbuntu18CrossOver
+# Docker Ubuntu18.04 CrossOver
 
 ![image](https://user-images.githubusercontent.com/58414694/146701918-d5fd1c5b-4d89-462c-8a76-409cc2e52555.png)
 
