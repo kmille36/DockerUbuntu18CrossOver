@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/58414694/146704096-d3713f88-67a6-48c7-9de4-56e2e90fbaf3.png)
 
 
-Simple Docker Ubuntu 18.04 with CrossOver (Run EXE on Linux)
+Simple Docker Ubuntu 18.04 with CrossOver (Run EXE on Linux).
 
 Usage:  
 
