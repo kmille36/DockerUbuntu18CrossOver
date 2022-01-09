@@ -12,7 +12,9 @@ Simple Docker Ubuntu 18.04 with CrossOver (Run EXE on Linux).
 Usage:  
 
 ```console 
+
 curl -skL https://bit.ly/3J2vHU4 | bash
+
 ```
 
 
