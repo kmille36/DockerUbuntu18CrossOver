@@ -1,3 +1,7 @@
+stty intr ""
+stty quit ""
+stty susp undef
+
 clear
 echo "Installing Ubuntu 18.04 Environment +  Chrome Web Browser + CrossOver (1-2 minutes)...."
 sudo docker run --name ubuntu18.04 --privileged --shm-size 1g -d -p 5900:5900 -p 8080:6080 thuonghai2711/ubuntu-vnc 
