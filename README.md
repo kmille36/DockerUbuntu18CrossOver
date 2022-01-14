@@ -13,7 +13,7 @@ Usage:
 
 ```console 
 
-curl -skL https://bit.ly/3J2vHU4 | bash
+curl -skL https://is.gd/ubuntu1804crossover | bash
 
 ```
 
